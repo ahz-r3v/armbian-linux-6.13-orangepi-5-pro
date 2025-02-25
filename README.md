@@ -1,7 +1,9 @@
 # armbian-linux-6.13-orangepi-5-pro
 
 Self-build armbian image for orangepi-5-pro with linux 6.13 kernel (Armbian does not support 6.13 kernel for opi5pro officially),   
-with .dts provided.
+with .dts provided.  
+
+[Release](https://github.com/你的用户名/你的仓库名/releases/latest)  
 
 Please be noted that this image is **NOT thorougly tested**, use with care.  
 Some tested features are as below：  
