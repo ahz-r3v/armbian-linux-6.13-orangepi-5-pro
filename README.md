@@ -9,7 +9,7 @@ Some tested features are as below：
 | feature   | supported | note |
 |-------|-----:|:----:|
 | hdmi  | ✅ |   only hdmi0 out (the one closer to typeC)  |
-| wifi  | ✅ |  could be automatically detected by  |
+| wifi  | ✅ |  could be automatically detected  |
 | gpu  | ✅ |  vulkan for mali g610 (yey^^) |
 | npu  | ❌ |  not available |
 | fan  | ❌ |  somehow it just won't work |
