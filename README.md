@@ -19,7 +19,7 @@ Some tested features are as below：
 ### If you want to build your own
 
 git clone https://github.com/armbian/build.git  
-Copy-paste `rk3588s-orangepi-5-pro.dts` to `patch/kernel/archive/rockchip64-6.12/dt/rk3588s-orangepi-5.dts`  
+Copy-paste `rk3588s-orangepi-5-pro.dts` to `patch/kernel/archive/rockchip64-6.13/dt/rk3588s-orangepi-5.dts`  
 (optinal) Modify `rk3588s-orangepi-5-pro.dts`  
 run `./compile.sh build BOARD=orangepi5pro BRANCH=edge KERNEL_GIT=shallow`  
 
